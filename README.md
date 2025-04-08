@@ -200,9 +200,10 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=chetan-jarande&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
 </p>
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetan-jarande" alt="GitHub Streak" />
-</p>
+</p> -->
+
 
 ---
 
