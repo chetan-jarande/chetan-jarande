@@ -2,12 +2,12 @@
 <h3 align="center">🚀 Passionate Software Developer | 🧠 Exploring AI Backend & UI | 📍 India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chetanjarande31&label=Profile%20views&color=0e75b6&style=flat" alt="chetanjarande31" />
+  <img src="https://komarev.com/ghpvc/?username=chetan-jarande&label=Profile%20views&color=0e75b6&style=flat" alt="chetan-jarande" />
 </p>
 
 <!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chetanjarande31&theme=gruvbox" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=chetan-jarande&theme=gruvbox" alt="GitHub Trophies" />
   </a>
 </p> -->
 
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently diving deeper into **AI backends and full-stack development**
 - 💼 All my work lives here: [Portfolio Website](https://chetanjarande-nextjs-portfolio-website.vercel.app/)
-- 🧠 I share knowledge & experiments through articles on [GitHub](https://github.com/ChetanJarande31)
+- 🧠 I share knowledge & experiments through articles on [GitHub](https://github.com/chetan-jarande)
 - 💬 Ask me about **AI, Python, Web Dev, Cloud, and DevOps**
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/chetan-jarande-032511198/)
 - 📄 Learn more about my experience: [About Me](https://chetanjarande-nextjs-portfolio-website.vercel.app/about)
@@ -195,13 +195,13 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chetanjarande31&locale=en&layout=compact&theme=dracula" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chetan-jarande&locale=en&layout=compact&theme=dracula" alt="Top Langs" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chetanjarande31&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chetan-jarande&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanjarande31&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetan-jarande" alt="GitHub Streak" />
 </p>
 
 ---
